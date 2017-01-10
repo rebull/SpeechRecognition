@@ -1,0 +1,9 @@
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csprojResolveAssemblyReference.cache
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.Cache
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+K:\KOUSHAL\WORKSPACE\c#\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
